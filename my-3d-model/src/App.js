@@ -13,6 +13,7 @@ export default function App() {
             height: '100vh',
          }}
       >
+         
          <ambientLight intensity={1.25} />
          <ambientLight intensity={0.1} />
          <directionalLight intensity={0.4} />
